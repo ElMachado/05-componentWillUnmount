@@ -1,4 +1,4 @@
-# componentWillUnmount
+# 05-componentWillUnmount
 
 Using Sass + vanilla js + Webpack
 
